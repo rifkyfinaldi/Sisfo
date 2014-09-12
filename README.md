@@ -7,6 +7,6 @@ KELOMPOK PANDORA
 
 Anggota:
 Rifky Finaldi (1103120203)
-Rezy Kurniawan
-Zaki Mudzakir
+Rezy Kurniawan (1103120211)
+Zaki Mudzakir (1103120073)
 Adithya Rizky Pratama
