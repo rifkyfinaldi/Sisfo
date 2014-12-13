@@ -1,0 +1,113 @@
+
+Insert into Guru values ('GU01','Ana Tirta','Jalan Sukapura','08212228989','Transfer','1010101010','Tetap');
+Insert into Guru values ('GU02','Anabela','Jalan Sudirman','08212228999','Transfer','1010101011','Tetap');
+Insert into Guru values ('GU03','Anasuka','Jalan Supratman','08212228888','Transfer','1010101111','Tetap');
+Insert into Guru values ('GU04','Ana Tirna','Jalan Sukasuka','08212228989','Transfer','1010101010','Honorer');
+Insert into Guru values ('GU05','Ana Tuna','Jalan Sukasana','08212221212','Transfer','1010101222','Honorer');
+Insert into Guru values ('GU06','Ana Tono','Jalan Sukasitu','08212223131','Transfer','10101011516','Tetap');
+Insert into Guru values ('GU07','Ana Tiri','Jalan Suparkir','08212221209','Transfer','1010101315','Tetap');
+Insert into Guru values ('GU08','Ana Tini','Jalan Sukasirna','08212221163','Transfer','1010101159','Tetap');
+Insert into Guru values ('GU09','Ana Turu','Jalan Sukatornu','08212221567','Transfer','1010101846','Honorer');
+Insert into Guru values ('GU10','Ana Tinu','Jalan Sukarna','08212221379','Transfer','1010101230','Honorer');
+Insert into Guru values ('GU11','Ana Sini','Jalan Sukaparna','08212221074','Transfer','1010105649','Tetap');
+Insert into Guru values ('GU12','Ana Situ','Jalan Sukaparni','08212229999','Transfer','1010105810','Tetap');
+Insert into Guru values ('GU13','Ana Siti','Jalan Sukaparnu','08212228890','Transfer','1010100000','Tetap');
+Insert into Guru values ('GU14','Ana Sito','Jalan Sukaparno','08212220111','Transfer','1010108959','Honorer');
+Insert into Guru values ('GU11','Ana Sini','Jalan Sukaparna','082122293213','Transfer','101012362','Honorer');
+
+
+Insert into Kelas values ('KL01','10A',10);
+Insert into Kelas values ('KL02','10B',10);
+Insert into Kelas values ('KL03','10C',10);
+Insert into Kelas values ('KL04','10D',10);
+Insert into Kelas values ('KL05','10E',10);
+Insert into Kelas values ('KL06','11A',10);
+Insert into Kelas values ('KL07','11B',10);
+Insert into Kelas values ('KL08','11C',10);
+Insert into Kelas values ('KL09','11D',10);
+Insert into Kelas values ('KL10','11E',10);
+Insert into Kelas values ('KL11','12A',10);
+Insert into Kelas values ('KL12','12B',10);
+Insert into Kelas values ('KL13','12C',10);
+Insert into Kelas values ('KL14','12D',10);
+Insert into Kelas values ('KL15','12E',10);
+
+
+Insert into Cuti values ('CT01','Januari','2014',2);
+Insert into Cuti values ('CT02','Februari','2014',3);
+Insert into Cuti values ('CT03','Maret','2014',2);
+Insert into Cuti values ('CT04','April','2014',5);
+Insert into Cuti values ('CT05','Mei','2014',5);
+Insert into Cuti values ('CT06','Juni','2014',7);
+Insert into Cuti values ('CT07','Juli','2014',2);
+Insert into Cuti values ('CT08','Agustus','2014',4);
+Insert into Cuti values ('CT09','September','2014',3);
+Insert into Cuti values ('CT10','Oktober','2014',9);
+Insert into Cuti values ('CT11','November','2014',4);
+Insert into Cuti values ('CT12','Desember','2014',5);
+Insert into Cuti values ('CT13','Januari','2013',4);
+Insert into Cuti values ('CT14','Februari','2013',2);
+Insert into Cuti values ('CT15','Maret','2013',1);
+
+
+Insert into Gaji values ('GJ01',4000000,'Januari','2014',4500000);
+Insert into Gaji values ('GJ02',4000000,'Februari','2014',4700000);
+Insert into Gaji values ('GJ03',4000000,'Maret','2014',4800000);
+Insert into Gaji values ('GJ04',4000000,'April','2014',4900000);
+Insert into Gaji values ('GJ05',4000000,'Mei','2014',5000000);
+Insert into Gaji values ('GJ06',4000000,'Juni','2014',3500000);
+Insert into Gaji values ('GJ07',4000000,'Juli','2014',3900000);
+Insert into Gaji values ('GJ08',4000000,'Agustus','2014',3000000);
+Insert into Gaji values ('GJ09',4000000,'September','2014',3600000);
+Insert into Gaji values ('GJ10',4000000,'Oktober','2014',4200000);
+Insert into Gaji values ('GJ11',4000000,'November','2014',4100000);
+Insert into Gaji values ('GJ12',4000000,'Desember','2014',4600000);
+Insert into Gaji values ('GJ13',4000000,'Januari','2013',4400000);
+Insert into Gaji values ('GJ14',4000000,'Februari','2013',3200000);
+Insert into Gaji values ('GJ15',4000000,'Maret','2013',3900000);
+
+Insert into Potongan values ('PT01,'Gaji',0);
+Insert into Potongan values ('PT02,'Gaji',0);
+Insert into Potongan values ('PT03,'Gaji',0);
+Insert into Potongan values ('PT04,'Gaji',0);
+Insert into Potongan values ('PT05,'Gaji',0);
+Insert into Potongan values ('PT06,'Gaji',500000);
+Insert into Potongan values ('PT07,'Gaji',100000);
+Insert into Potongan values ('PT08,'Gaji',1000000);
+Insert into Potongan values ('PT09,'Gaji',400000);
+Insert into Potongan values ('PT10,'Gaji',0);
+Insert into Potongan values ('PT11,'Gaji',0);
+Insert into Potongan values ('PT12,'Gaji',0);
+Insert into Potongan values ('PT13,'Gaji',0);
+Insert into Potongan values ('PT14,'Gaji',800000);
+Insert into Potongan values ('PT15,'Gaji',100000);
+
+Insert into Tunjangan Values ('TJ01',500000,'Gaji');
+Insert into Tunjangan Values ('TJ02',700000,'Gaji');
+Insert into Tunjangan Values ('TJ03',800000,'Gaji');
+Insert into Tunjangan Values ('TJ04',900000,'Gaji');
+Insert into Tunjangan Values ('TJ05',1000000,'Gaji');
+Insert into Tunjangan Values ('TJ06',0,'Gaji');
+Insert into Tunjangan Values ('TJ07',0,'Gaji');
+Insert into Tunjangan Values ('TJ08',0,'Gaji');
+Insert into Tunjangan Values ('TJ09',0,'Gaji');
+Insert into Tunjangan Values ('TJ10',200000,'Gaji');
+Insert into Tunjangan Values ('TJ11',100000,'Gaji');
+Insert into Tunjangan Values ('TJ12',600000,'Gaji');
+Insert into Tunjangan Values ('TJ13',400000,'Gaji');
+Insert into Tunjangan Values ('TJ14',0,'Gaji');
+Insert into Tunjangan Values ('TJ15',0,'Gaji');
+
+Insert into Matpel Values ('MP01','Fisika',2);
+Insert into Matpel Values ('MP02','Bahasa Indonesia',2);
+Insert into Matpel Values ('MP03','Bahasa Jepang',2);
+Insert into Matpel Values ('MP04','Olah Raga',2);
+Insert into Matpel Values ('MP05','Kimia',2);
+Insert into Matpel Values ('MP06','Biologi',2);
+
+Insert into Jadwal Values ('JD01','Senin');
+Insert into Jadwal Values ('JD02','Selasa');
+Insert into Jadwal Values ('JD03','Rabu');
+Insert into Jadwal Values ('JD04','Kamis');
+Insert into Jadwal Values ('JD05','Jumat');
+Insert into Jadwal Values ('JD06','Sabtu');
